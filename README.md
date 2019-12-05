@@ -16,7 +16,7 @@ Dear all helpless EOS holders,
 ## So here comes the rules:
 1. Everyone can say something.
 2. More words, more coin, coin doubled when words is multiple of 500 byte.
-3. If speech time is continuous, more coin; otherwise, it count from beginning.
+3. If speech time is continuous (you don't miss every block), more coin; otherwise, it count from beginning.
 4. You can only make one speech in one block.
 5. Every transaction, miner get 70% coin, contract get 30% coin.
 6. We can think this as a warm up of VOICE.
