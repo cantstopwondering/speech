@@ -14,12 +14,12 @@ Dear all helpless EOS holders,
 
 
 ## So here comes the rules:
-1. Everyone can say something.
-2. More words, more coin, coin doubled when words is multiple of 500 byte, no upper bound.
-3. If speech time is continuous (you don't miss every block), more coin.
-4. You can only make one speech in one block.
-5. Every transaction, miner get 70% coin, contract get 30% coin.
-6. We can think this as a warm up of VOICE, everyone can make speech on free blockchain world.
+1. Everyone can say something, it's a free blockchain world. 
+2. We can think this as a warm up of VOICE.
+3. More words, more coin, coin doubled when words is multiple of 500 byte, no upper bound.
+4. If speech time is continuous (you don't miss every block), more coin.
+5. You can only make one speech in one block.
+6. Every transaction, miner get 70% coin, contract get 30% coin.
 7. Every speech miner says, we forward it to b1.
 8. Total supply of SPEECH is 100 million, just like B1's tokens in EOS.
 9. The reward start from 4 SPEECH each block, decrease progressively every 5 million, the decrease factor is 1.2. 
@@ -32,6 +32,6 @@ Dear all helpless EOS holders,
 ```
 cleos push action speechforeos say '["my_account", "Hi Block.one:I WANT TO SAY THAT..."]' -p my_account
 ```
-3. Earn SPEECH coin, more words is encouraged.
+3. Earned SPEECH coin, more words is encouraged.
 
 
