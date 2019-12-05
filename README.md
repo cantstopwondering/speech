@@ -1,5 +1,3 @@
-# speech
-
 ## A letter to the EOS holders
 
 Dear all helpless EOS holders, 
