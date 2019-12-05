@@ -28,7 +28,7 @@ Dear all helpless EOS holders,
 ## How to make speech, and earn SPEECH:
 1. Wait for UTC 2019-12-06 12:00:00.
 
-2. just say words start with `Hi Block.one:`.
+2. Just say words start with `Hi Block.one:`.
 ```
 cleos push action speechforeos say '["my_account", "Hi Block.one:I WANT TO SAY THAT..."]' -p my_account
 ```
