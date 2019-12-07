@@ -21,10 +21,10 @@ Dear all helpless EOS holders,
 7. Every speech miner says, we forward it to b1.
 8. Total supply of SPEECH is 100 million, just like B1's tokens in EOS.
 9. The reward start from 4 SPEECH each block, decrease progressively every 5 million, the decrease factor is 1.2. 
-10. You can making speech starts from UTC 2019-12-06 12:00:00.
+10. You can making speech starts from UTC 2019-12-07 12:00:00.
 
 ## How to make speech, and earn SPEECH:
-1. Wait for UTC 2019-12-06 12:00:00.
+1. Wait for UTC 2019-12-07 12:00:00.
 
 2. Just say words start with `Hi Block.one:`.
 ```
